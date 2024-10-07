@@ -1,0 +1,3 @@
+![food-delivery](https://github.com/user-attachments/assets/da384481-bcd3-4d6c-bff8-cce16885bb07)
+
+I developed a food-delivery web app using React.js, featuring reusable components to streamline code and enhance maintainability. Tailwind CSS was employed for responsive and modern styling, ensuring a seamless user interface. React hooks were used to manage state and lifecycle events efficiently, improving overall performance and user experience. The project was bundled using Parcel, enabling faster builds and simplifying development with its out-of-the-box configuration. This modular and efficient approach ensured a scalable, maintainable, and visually appealing application.
