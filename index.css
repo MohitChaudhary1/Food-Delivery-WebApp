@@ -1,4 +1,75 @@
-#heading{
+/* #container{
     color:rgb(255, 128, 0);
     background-color: aquamarine;
+} */
+/* 
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(243, 236, 228);
+    border: 2px solid black;
 }
+
+
+.search{
+    margin-top: 5px;
+}
+.search:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+
+
+.restaurant-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    margin-top: 5px;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 150px;
+}
+
+.nav-items > ul {
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+}
+
+.nav-items > ul > li {
+    padding: 10px;
+    margin: 10px;
+}
+
+.res-card{
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+    background-color: rgb(210, 236, 227);
+    border: 3px slateblue;
+
+}
+
+.res-card:hover{
+    cursor: pointer;
+    border: 1px solid black;
+    
+}
+
+.res-logo{
+    width: 99%;
+    height: 120px;
+}
+
+.search{
+    padding: 10px;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
